@@ -9,7 +9,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./alist/alist.json"
+            "ext": "https://github-private.roeel.workers.dev/alist.json"
         }
     ]
 }
