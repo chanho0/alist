@@ -1,0 +1,14 @@
+{
+    "drives": [
+        {
+            "name": "Alist",
+            "server": "http://119.29.90.101:5244/",
+            "search": false,
+            "hidden": false,
+            "login": {
+                "username": "admin",
+                "password": "159357"
+            }
+        }
+    ]
+}
